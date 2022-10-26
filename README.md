@@ -2,7 +2,7 @@
 
 #### App desenvolvido durante o Bootcamp do Banco Inter na DIO. 
 
-###Tecnologias usadas no desenvolvimento
+### Tecnologias usadas no desenvolvimento
 * HTML, CSS, JavaScript
 
 ### Matérias estudadas durante o curso: 
